@@ -19,7 +19,6 @@ for w in words:
                 line = w
         else:
             print(line)
-            count = 0
             line = w
 
 print(line)
